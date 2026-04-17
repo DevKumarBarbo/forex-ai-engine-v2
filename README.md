@@ -1,2 +1,8 @@
-# forex-ai-engine-v2
-Idk
+# Forex AI Engine
+
+Advanced forex data engine with:
+- multi-source pricing
+- statistical analysis
+- time-series modeling
+
+POST /analyze
